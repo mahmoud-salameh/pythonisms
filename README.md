@@ -1,4 +1,4 @@
-# PR:()
+# PR:(https://github.com/mahmoud-salameh/pythonisms/pull/1)
 
 # Pythonisms
 
